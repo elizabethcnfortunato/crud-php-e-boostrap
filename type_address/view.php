@@ -21,7 +21,7 @@
 
 <div id="actions" class="row">
 	<div class="col-md-12">
-	  <a href="edit.php?id=<?php echo $customer['id']; ?>" class="btn btn-primary">Edit</a>
+	  <a href="edit.php?id=<?php echo $type_address['id']; ?>" class="btn btn-primary">Edit</a>
 	  <a href="index.php" class="btn btn-default">Retorn</a>
 	</div>
 </div>
