@@ -5,7 +5,7 @@
 
 <?php include(HEADER_TEMPLATE); ?>
 
-<h2>Novo Cliente</h2>
+<h2>New Type Address</h2>
 
 <form action="add.php" method="post">
   <!-- area de campos do form -->
